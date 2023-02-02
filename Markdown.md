@@ -1,2 +1,2 @@
-<h4 style="text-align:center:"> title </h4> 
+<h4 align="center">title</h4> 
   
